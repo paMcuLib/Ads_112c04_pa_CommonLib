@@ -3,9 +3,6 @@
 #include "../Ads_112c04.h"
 
 #ifdef MSP432E
-uint32_t Ads_112c04_getPinOrPortByAdd(GpioPortOrPin pop, char add)
-{
-}
 void Ads_112c04::initHardware()
 {
 }
